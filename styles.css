@@ -1,0 +1,51 @@
+
+body{
+    background-image: url("https://th.bing.com/th/id/OIG.VXZVIqEOY_eKtU_xfld6?pid=ImgGn");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* h1{
+    text-align: center;
+    color: rgba(0, 0, 255, 0.437);
+}
+li{
+    float: left;
+} 
+a{
+    float: center;
+}
+div a {
+     
+     color: #009dff;
+     text-align: center;
+     padding: 60px 60px;
+     text-decoration: none;
+}
+.button{
+    background-color: #008CBA;
+    float: center; 
+    color: red;
+} */
+
+
+.navbar {
+    margin-block-end: 5rem;
+    background-color: rgb(78, 76, 76);
+}
+
+#navbar-brand {
+    color: #fff;
+}
+
+#content {
+    text-align: center;
+
+}
+
+#content > h1, p {
+    color: #fff;
+}
+
